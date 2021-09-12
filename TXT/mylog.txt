@@ -12,3 +12,5 @@ ZCZC W01   5 L05 Quiz related
 ZCZC W01  20 L11 Assignment #01
 ZCZC W01  20 L16 Assignment #06
 ZCZC W01 200 L09 Assignment in General
+ZCZC W01  30 L06 GSGS about vi
+ZCZC W01  20 L62 Reinstall/Restore/Backup Virtual Debian Guest
