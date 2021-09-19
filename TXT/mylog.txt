@@ -14,3 +14,10 @@ ZCZC W01  20 L16 Assignment #06
 ZCZC W01 200 L09 Assignment in General
 ZCZC W01  30 L06 GSGS about vi
 ZCZC W01  20 L62 Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W02  20 L06 References/Books/Documents/GSGS related
+ZCZC W02 110 L02 ZOOM meetings related
+ZCZC W02  20 L22 Quiz
+ZCZC W02  15 L01 SCELE/Discord related
+ZCZC W02  30 L18 Assignment #08
+ZCZC W02 100 L09 Assignment in General
+ZCZC W02  15 L62 Reinstall/Restore/Backup Virtual Debian Guest
