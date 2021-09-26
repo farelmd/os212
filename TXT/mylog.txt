@@ -21,3 +21,9 @@ ZCZC W02  15 L01 SCELE/Discord related
 ZCZC W02  30 L18 Assignment #08
 ZCZC W02 100 L09 Assignment in General
 ZCZC W02  15 L62 Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W03  20 L22 Quiz
+ZCZC W03  90 L02 ZOOM meetings related
+ZCZC W03 150 L09 Assignment in General(all assignment)
+ZCZC W03  30 L06 GSGS related
+ZCZC W03  30 L01 SCELE/Discord related
+ZCZC W03  25 L62 Reinstall/Restore/Backup Virtual Debian Guest
