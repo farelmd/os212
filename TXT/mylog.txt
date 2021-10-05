@@ -33,3 +33,12 @@ ZCZC W04  20 L06 GSGS related
 ZCZC W04  30 L01 SCELE/Discord related
 ZCZC W04  90 L09 Assignment in General(all assignment)
 ZCZC W04  15 L62 Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05  20 L22 Quiz
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  15 L06 GSGS about linux command and C-language
+ZCZC W05  20 L01 SCELE/Discord related
+ZCZC W05  10 L03 GitHub related
+ZCZC W05 100 L09 Assignment in General(all assignment)
+ZCZC W05  20 L28 Access os212.vlsm.org and do the assignment
+ZCZC W05  15 L62 Reinstall/Restore/Backup Virtual Debian Guest
+
