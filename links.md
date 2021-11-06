@@ -17,3 +17,6 @@ permalink: /LINKS/
 
 5. [Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)  
    Youtube playlist to learn Linux command line. Every video shows how to perform one of the task that commonly used on computer.
+
+6. [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about)   
+    The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
